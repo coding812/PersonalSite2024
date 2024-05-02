@@ -26,16 +26,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/codin/WebDev/PersonalSite2024/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/codin/WebDev/PersonalSite2024/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/codin/WebDev/PersonalSite2024/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/codin/WebDev/PersonalSite2024/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/Users/codin/WebDev/PersonalSite2024/Pages/Portfolio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9ydGZvbGlvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/codin/WebDev/PersonalSite2024/_Imports.razor]
@@ -49,3 +49,7 @@ build_metadata.AdditionalFiles.CssScope = b-kp0w5j3nab
 [C:/Users/codin/WebDev/PersonalSite2024/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-atmavn2d8a
+
+[C:/Users/codin/WebDev/PersonalSite2024/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-eqjfe2n9bl

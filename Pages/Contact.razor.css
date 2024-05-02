@@ -1,0 +1,9 @@
+.icon{
+    height: 80px;
+    width: 80px;
+}
+.icon-row{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
