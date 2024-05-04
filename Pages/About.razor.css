@@ -1,0 +1,11 @@
+p{
+    text-indent: 4vw;
+    width: 100%;
+    max-width: 1250px;
+    text-wrap: wrap;
+    margin-top: 3vw;
+    font:'Roboto', sans-serif;
+    font-size: clamp(1.5rem, 2.5vw, 2rem);
+    color: #0b252a;
+    line-height: 3.5vw;
+}
