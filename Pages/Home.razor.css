@@ -22,13 +22,14 @@ p{
 }
 
 .preferred-tech{
-    /* border: 2px solid #0b252a; */
-    border-radius: 15px;
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 15);
-    text-shadow: 1px 1px 2px #0b252a;
+    text-shadow: 0px 1px 2px #0b252a;
     padding: 0.5vw;
     font-size: clamp(1.2rem, 2.5vw, 2rem);
-    color: #0b252a;
+    color: #dde7e5;
     font-weight: bold;
-    background-color: #d0e6f1;
+
+    backdrop-filter: blur(7px) saturate(118%);
+    -webkit-backdrop-filter: blur(7px) saturate(100%);
+    border-radius: 18px;
+    
 }
