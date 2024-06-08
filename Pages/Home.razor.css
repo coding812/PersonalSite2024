@@ -1,6 +1,6 @@
 p{
     text-indent: 4vw;
-    width: clamp(58px, 100%, 1350px);
+    width: clamp(58px, 100%, 1300px);
     text-wrap: wrap;
     font:'Roboto', sans-serif;
     font-size: clamp(1.2rem, 2.5vw, 2rem);
@@ -11,10 +11,10 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 8vw;
+    padding-Right: 20vw;
 }
 .profile{
-    width: clamp(15vw, 30vw, 40vw);
+    width: clamp(15vw, 30vw, 30vw);
     border-radius: 50%;
     box-shadow: 0 12px 8px 0 rgba(0, 0, 0, 0.1);
 }
